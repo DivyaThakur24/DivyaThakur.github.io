@@ -1,5 +1,5 @@
 # Divya Thakur
-## Data Analyst Portfolio
+## Portfolio
 
 ---
 
